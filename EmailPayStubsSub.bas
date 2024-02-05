@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module14"
+Attribute VB_Name = "EmailPayStubsSub"
 Option Explicit
 
 

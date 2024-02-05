@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module3"
+Attribute VB_Name = "PasteToYTDFunctions"
 Function NashvillePasteTotalsToYTD()
     'for detecting range length
     Dim RangeYTD As Range

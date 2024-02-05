@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module15"
+Attribute VB_Name = "MacMailFunctions"
 Function MacExcelWithMacMailCatalinaAndUp(subject As String, mailbody As String, _
     toaddress As String, ccaddress As String, _
     bccaddress As String, displaymail As String, _

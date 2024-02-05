@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "UtilSubs"
 Sub HidePayStubCells()
 Attribute HidePayStubCells.VB_Description = "hide unused paystub rows"
 Attribute HidePayStubCells.VB_ProcData.VB_Invoke_Func = "u\n14"

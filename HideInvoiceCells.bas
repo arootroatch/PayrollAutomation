@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module7"
+Attribute VB_Name = "HideInvoiceCells"
 
 Function HideInvoiceCellsBroadway()
     Dim broadway As Worksheet

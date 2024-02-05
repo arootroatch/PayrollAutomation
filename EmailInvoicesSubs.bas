@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module17"
+Attribute VB_Name = "EmailInvoicesSubs"
 Dim SendKings As Boolean
 Dim SendMisc As Boolean
 Dim SendTRBro As Boolean

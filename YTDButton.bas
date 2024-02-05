@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module6"
+Attribute VB_Name = "YTDButton"
 Public YTDBook As Workbook
 Public PayPeriodNumber As Integer
 Public YTDName As String
